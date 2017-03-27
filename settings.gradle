@@ -1,0 +1,2 @@
+include ':app', ':card.io'
+project(':card.io').projectDir = new File('card.io-Android-source/card.io')
